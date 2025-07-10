@@ -25,8 +25,23 @@ This project was developed and tested using:
 - **torch**: 2.4.1+cpu  
 - **scikit-learn**: 1.5.1  
 
-To install the required dependencies:
+## 📖 How to cite
 
-```bash
-pip install -r requirements.txt
+If you use this work, please cite:
+
+> Sumet Khumphairan\*, Sudarat Chadsuthi\*, Peter Fransson, Yichao Liu, Charin Modchang, Joacim Rocklöv, Ekaterina Kostina (2025).  
+> *Hybrid modeling framework for leptospirosis dynamics.* Zenodo. https://doi.org/10.5281/zenodo.15853532
+
+### 🔖 BibTeX
+
+```bibtex
+@misc{khumphairan2025hybrid,
+  author       = {Sumet Khumphairan and Sudarat Chadsuthi and Peter Fransson and Yichao Liu and Charin Modchang and Joacim Rocklöv and Ekaterina Kostina},
+  title        = {Hybrid modeling framework for leptospirosis dynamics},
+  year         = 2025,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15853532},
+  url          = {https://doi.org/10.5281/zenodo.15853532}
+}
+
 
