@@ -28,3 +28,13 @@ To install the required dependencies:
 
 ```bash
 pip install -r requirements.txt
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15853532.svg)](https://doi.org/10.5281/zenodo.15853532)
+
+## 📖 Citation
+
+If you use this work, please cite:
+
+> Sumet Khumphairan\*, Sudarat Chadsuthi\*, Peter Fransson, Yichao Liu, Charin Modchang, Joacim Rocklöv, Ekaterina Kostina (2025).  
+> *Hybrid modeling framework for leptospirosis dynamics.* Zenodo. [https://doi.org/10.5281/zenodo.15853532](https://doi.org/10.5281/zenodo.15853532)
+
