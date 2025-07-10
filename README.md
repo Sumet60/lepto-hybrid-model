@@ -16,6 +16,8 @@ This repository contains the code, data, and reproducibility files for running t
 This project was developed and tested using:
 
 - **Python**: 3.9.16  
+- **conda**: 24.1.2  
+- **Jupyter Notebook**: 7.0.8  
 - **pandas**: 2.2.2  
 - **matplotlib**: 3.9.2  
 - **numpy**: 1.26.4  
