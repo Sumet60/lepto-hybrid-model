@@ -2,6 +2,7 @@
 
 Code and data for the manuscript submitted to *PLOS Computational Biology* titled:  
 **"Hybrid neural–mechanistic modeling of leptospirosis transmission with environmental drivers: Evidence from Thailand"**
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15853532.svg)](https://doi.org/10.5281/zenodo.15853532)
 
 ---
 
@@ -29,7 +30,7 @@ To install the required dependencies:
 ```bash
 pip install -r requirements.txt
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15853532.svg)](https://doi.org/10.5281/zenodo.15853532)
+---
 
 ## 📖 Citation
 
